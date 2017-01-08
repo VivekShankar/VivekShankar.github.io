@@ -4,6 +4,11 @@ RainCheck is an initiative to develop smartphones whose touchscreens function we
 
 [Here](https://github.com/VivekShankar/VivekShankar.github.io/blob/master/MilestoneReport1.pdf), you can view the entire project proposal.
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ## Welcome to Vivek Shankar's Home Page.
 
 I am 20 years old!
