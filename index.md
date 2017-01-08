@@ -6,8 +6,13 @@ RainCheck is an initiative to develop smartphones whose touchscreens function we
 
 | Week  | Milestone | Link |
 | ------------- | ------------- | ------------- | 
-| Content Cell  | Understand background material and learn technologies. | ------------- | 
-| Content Cell  | Finalize design and logistical details of the experiment to collect data on different user interactions when the phone is wet.  | ------------- | 
+| Dec. 16  | Understand background material and learn technologies. | N/A | 
+| Feb. 13  | Finalize design and logistical details of the experiment to collect data on different user interactions when the phone is wet. | N/A | 
+| Feb. 27  | Start evaluating the results of the Machine Learning models for distinguishing between real, finger-based and false, water-induced touches in a controlled setting. Start addressing the problem of touch-typing in the presence of water. Work on the first approach: constructing the real touch-typing path from the incorrect path recorded by the phone. | N/A | 
+| Mar. 20  | Finish evaluating the results of the Machine Learning models in a controlled setting. Continue work on user touch-typing. Work on the second approach: construct the real message typed by the user from the incorrect message the phone recorded. | N/A | 
+| Apr. 3  | Finish work on enabling the algorithms to run in real-time. Evaluate the results of the new Machine Learning models developed for use in real-time. Begin work on the research poster and paper for the Meeting of the Minds project report. | N/A | 
+| Apr. 17  | Finish work on touch typing in the presence of water. Evaluate the results of the Machine Learning models developed for touch typing. Continue work on the research poster and paper. | N/A | 
+| May 1  | Finish the research poster and the written report. | N/A | 
 
 ## Welcome to Vivek Shankar's Home Page.
 
