@@ -8,7 +8,7 @@ Capacitive means the sensors have the ability to absorb, or store electrons. Whe
 
 My mentor is [Professor Mayank Goel](https://www.hcii.cmu.edu/people/mayank-goel), Assistant Professor in the Institute of Software Research and the Human Computer Interaction Institute.For more information on past work done on the RainCheck project, check out the official RainCheck project [site](https://ubicomplab.github.io/RainCheck/index.html). You can also view my entire project proposal [here](https://github.com/VivekShankar/VivekShankar.github.io/blob/master/15400ProjectProposalFinal.pdf).
 
-# Timeline
+<p align="center"> # Timeline </p>
 
 | Week  | Milestone | Link |
 | ---  | ---  | ---  | 
