@@ -6,6 +6,8 @@ RainCheck is an initiative to develop smartphones whose touchscreens function we
 
 Capacitive means the sensors have the ability to absorb, or store electrons. When you touch a capacitive touchscreen with your finger, you cause a change in the screen’s electrical field – a change in the capacitance values of the region of the screen you touched. Fingers are capacitive, which is why touchscreens work so well with our fingers, but so too are water droplets. Thus, the major challenge of making the touchscreen robust to water droplets is the fact that water droplets change the capacitance of electrodes on the screen in a similar way to a user’s fingers. The touchscreen gets confused between water droplets and our fingers, and irregularly registers “false touches” at different points on the screen due to the presence of water.
 
+For more information on past work done on the RainCheck project, click [here](https://ubicomplab.github.io/RainCheck/index.html).
+
 [Here](https://github.com/VivekShankar/VivekShankar.github.io/blob/master/15400ProjectProposalFinal.pdf), you can view the entire project proposal.
 
 | Week  | Milestone | Link |
