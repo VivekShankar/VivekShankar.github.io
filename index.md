@@ -4,10 +4,10 @@ RainCheck is an initiative to develop smartphones whose touchscreens function we
 
 [Here](https://github.com/VivekShankar/VivekShankar.github.io/blob/master/MilestoneReport1.pdf), you can view the entire project proposal.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Week  | Milestone | Link |
+| ------------- | ------------- | ------------- | 
+| Content Cell  | Understand background material and learn technologies. | ------------- | 
+| Content Cell  | Finalize design and logistical details of the experiment to collect data on different user interactions when the phone is wet.  | ------------- | 
 
 ## Welcome to Vivek Shankar's Home Page.
 
