@@ -5,7 +5,7 @@ RainCheck is an initiative to develop smartphones whose touchscreens function we
 [Here](https://github.com/VivekShankar/VivekShankar.github.io/blob/master/MilestoneReport1.pdf), you can view the entire project proposal.
 
 | Week  | Milestone | Link |
-| ------------- | ------------- | ------------- | 
+| :---:  | :---:  | :---:  | 
 | Dec. 16  | Understand background material and learn technologies. | [Report 1](https://github.com/VivekShankar/VivekShankar.github.io/blob/master/MilestoneReport1.pdf) | 
 | Feb. 13  | Finalize design and logistical details of the experiment to collect data on different user interactions when the phone is wet. | N/A | 
 | Feb. 27  | Start evaluating the results of the Machine Learning models for distinguishing between real, finger-based and false, water-induced touches in a controlled setting. Start addressing the problem of touch-typing in the presence of water. Work on the first approach: constructing the real touch-typing path from the incorrect path recorded by the phone. | N/A | 
