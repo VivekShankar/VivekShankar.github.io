@@ -12,7 +12,7 @@ My mentor is [Professor Mayank Goel](https://www.hcii.cmu.edu/people/mayank-goel
 
 | Week  | Milestone | Link |
 | ---  | ---  | ---  | 
-| Dec. 16  | Understand background material and learn technologies. | [Report](https://github.com/VivekShankar/VivekShankar.github.io/blob/master/MilestoneReport1.pdf) | 
+| Dec. 16  | Understand background material and learn technologies. | <a href="MilestoneReport1.pdf">Report</a> | 
 | Feb. 13  | Finalize design and logistical details of the experiment to collect data on different user interactions when the phone is wet. | N/A | 
 | Feb. 27  | Start evaluating the results of the Machine Learning models for distinguishing between real, finger-based and false, water-induced touches in a controlled setting. Start addressing the problem of touch-typing in the presence of water. Work on the first approach: constructing the real touch-typing path from the incorrect path recorded by the phone. | N/A | 
 | Mar. 20  | Finish evaluating the results of the Machine Learning models in a controlled setting. Continue work on user touch-typing. Work on the second approach: construct the real message typed by the user from the incorrect message the phone recorded. | N/A | 
