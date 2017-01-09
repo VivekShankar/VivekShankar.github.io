@@ -1,4 +1,4 @@
-<h1 align="center"> Background </h1>
+<h1 align="center"> Backgroundads </h1>
 
 RainCheck is an initiative to develop smartphones whose touchscreens function well even in the presence of water on the touchscreens: when it is raining, or our fingers are wet. Most modern smartphones use a grid of capacitive sensors to detect touches on the screen.
 
